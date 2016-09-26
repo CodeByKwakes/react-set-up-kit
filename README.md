@@ -4,6 +4,16 @@ My React starter kit practise
 Welcome.
 
 
+Usage
+---
+ 
+Start the development server with this command:
+ 
+```
+npm start
+```
+
+
 Setup
 ---
  
